@@ -12,5 +12,15 @@
      ]
    },
    "previewers": {},
-   "info": {}
+   "info": {},
+   "search": {
+     "fields": [
+	   "document.title",
+	   "document.description",
+	   "document.keywords"
+	 ],
+	 "filters": [
+	   "document.category"
+	 ]
+   }
 }
