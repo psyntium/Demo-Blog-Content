@@ -1,0 +1,16 @@
+{
+   "title": "Demo Blog - Content catalog",
+   "owners": {
+      "f": [
+         "all"
+      ]
+   },
+   "editors": {},
+   "viewers": {
+     "all": [
+       "all"
+     ]
+   },
+   "previewers": {},
+   "catalogInfo": {}
+}
