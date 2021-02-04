@@ -1,8 +1,8 @@
 # Post 1
 
-Here is the content
+Add post content here
 
 
-This website is using IBM DocumentHub components to embed content from GitHub in any website.
+Sample image:
 
 ![IBM](_images/IBM.jpg)
