@@ -22,5 +22,6 @@
 	 "filters": [
 	   "document.category"
 	 ]
-   }
+   },
+   "attachmentsBaseFolder": "{catalogId}"
 }
