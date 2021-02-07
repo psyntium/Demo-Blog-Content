@@ -1,4 +1,3 @@
-# Post 1
 
 Add post content here
 
