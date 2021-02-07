@@ -1,3 +1,5 @@
+![Webinar](_images/webinar.png)
+
 Whether or not you enjoy public speaking, I’d bet you don’t like hopping on stage without preparing for a speech or keynote address.
 
 Running through slides, practicing in front of a mirror, or pre-writing a script — whatever type of preparation you prefer, it’s key to calming nerves and delivering an engaging, valuable presentation.
