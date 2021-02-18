@@ -3,25 +3,28 @@
    "owners": {
       "f": [
          "all"
+      ],
+      "OYb2PHW": [
+         "all"
       ]
    },
    "editors": {},
    "viewers": {
-     "all": [
-       "all"
-     ]
+      "all": [
+         "all"
+      ]
    },
    "previewers": {},
    "info": {},
    "search": {
-     "fields": [
-	   "document.title",
-	   "document.description",
-	   "document.keywords"
-	 ],
-	 "filters": [
-	   "document.category"
-	 ]
+      "fields": [
+         "document.title",
+         "document.description",
+         "document.keywords"
+      ],
+      "filters": [
+         "document.category"
+      ]
    },
    "attachmentsBaseFolder": "{catalogId}"
 }
